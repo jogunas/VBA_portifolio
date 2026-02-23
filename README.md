@@ -28,7 +28,7 @@ Este projeto opera com as seguintes abas:
 
 ## ⚙️ Como Executar
 
-1. Baixe o arquivo original `.xlsm` (sem dados sensíveis).  
+1. Baixe o arquivo original [Informe_semanal.xlsm](https://github.com/jogunas/VBA_portifolio/blob/main/0.%20Informe_semanal.xlsm).
 2. Habilite macros no Excel.  
 3. Abra `Alt + F11`.    
 4. Execute a macro principal (exemplo):
@@ -53,4 +53,4 @@ Este projeto opera com as seguintes abas:
 ## 📬 Contato
 
 João Guilherme  
-*(adicione seu LinkedIn, email, portfólio etc.)*
+jgnldo@gmail.com
