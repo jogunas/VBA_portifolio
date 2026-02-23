@@ -6,16 +6,6 @@ Os códigos deste repositório foram extraídos de planilhas .xlsm utilizadas pa
 
 ---
 
-## 📁 Estrutura do Repositório
-MME-projetos/
-├── 01-InformeSemanal/
-│   ├── src/              → módulos .bas/.cls/.frm exportados do Excel
-│   ├── exemplos/         → (opcional) planilhas ou prints explicativos
-│   └── README.md         → documentação específica do projeto
-└── README.md             → este arquivo
-Cada pasta representa um projeto independente escrito em VBA.
-
----
 
 # 📌 Projeto 01 – Informe Semanal (VBA + Excel)
 
@@ -40,45 +30,27 @@ Este projeto opera com as seguintes abas:
 
 1. Baixe o arquivo original `.xlsm` (sem dados sensíveis).  
 2. Habilite macros no Excel.  
-3. Abra `Alt + F11`.  
-4. Importe os módulos da pasta `src/`.  
-5. Execute a macro principal (exemplo):
-Sub AtualizarInformeSemanal()
-*(Se o nome correto da macro principal for outro, substitua acima.)*
-
+3. Abra `Alt + F11`.    
+4. Execute a macro principal (exemplo):
 ---
 
 ## 🧩 Principais Módulos (com base nos arquivos enviados)
 
 | Módulo | Função esperada |
 |--------|------------------|
-| `ArmazenamentoDados.bas` | cálculos de despacho térmico e consolidação por subsistema |
-| `ArmazenamentoTabela` | atualização dos valores de ENA semanal |
-| `DespachoTabela` | cálculo e comparação dos níveis de EAR |
-| `DespachoDados` | funções auxiliares usadas em vários módulos |
-| `TextoExportação`| exportação do informe em PDF |
-| `TextoImportação`
+| `ArmazenamentoDados` |  |
+| `ArmazenamentoTabela` |  |
+| `DespachoTabela` |  |
+| `DespachoDados` |  |
+| `TextoExportação`|  |
+| `TextoImportação` |  |
 
 > Ajuste a tabela acima conforme os nomes reais dos seus módulos.
 
 ---
 
-## 🧪 Dependências
-
-- Excel com macros habilitadas  
-- Permissão ativada:  
-**Arquivo → Opções → Central de Confiabilidade → Configurações → “Confiar no acesso ao modelo de objeto do projeto VBA”**
-
----
 
 ## 📬 Contato
 
 João Guilherme  
 *(adicione seu LinkedIn, email, portfólio etc.)*
-
----
-
-## 📄 Licença
-
-Este repositório utiliza a licença **MIT** por padrão.  
-Pode alterar se preferir.
