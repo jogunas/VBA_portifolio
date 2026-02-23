@@ -38,7 +38,7 @@ Este projeto opera com as seguintes abas:
 
 | Módulo | Função esperada |
 |--------|------------------|
-| `ArmazenamentoDados` |  |
+| [ArmazenamentoDados](https://github.com/jogunas/VBA_portifolio/blob/main/ArmazenamentoDados.bas) |  |
 | `ArmazenamentoTabela` |  |
 | `DespachoTabela` |  |
 | `DespachoDados` |  |
