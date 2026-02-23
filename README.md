@@ -39,11 +39,11 @@ Este projeto opera com as seguintes abas:
 | Módulo | Função esperada |
 |--------|------------------|
 | [ArmazenamentoDados](https://github.com/jogunas/VBA_portifolio/blob/main/ArmazenamentoDados.bas) |  |
-| `ArmazenamentoTabela` |  |
-| `DespachoTabela` |  |
-| `DespachoDados` |  |
-| `TextoExportação`|  |
-| `TextoImportação` |  |
+| [ArmazenamentoTabela](https://github.com/jogunas/VBA_portifolio/blob/main/ArmazenamentoTabela.bas) |  |
+| [DespachoTabela](https://github.com/jogunas/VBA_portifolio/blob/main/DespachoTabela.bas) |  |
+| [DespachoDados](https://github.com/jogunas/VBA_portifolio/blob/main/DespachoDados.bas) |  |
+| [TextoExportação](https://github.com/jogunas/VBA_portifolio/blob/main/TextoExportação.bas)|  |
+| [TextoImportação](https://github.com/jogunas/VBA_portifolio/blob/main/TextoImportação.bas) |  |
 
 > Ajuste a tabela acima conforme os nomes reais dos seus módulos.
 
